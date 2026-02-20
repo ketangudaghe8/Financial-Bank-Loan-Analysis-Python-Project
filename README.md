@@ -10,7 +10,10 @@
 
 5.**Average Debt-to-Income Ratio (DTI)**: Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans.
 
-<img width="842" height="562" alt="image" src="https://github.com/user-attachments/assets/6e7a841c-2f32-4dda-94aa-04089d384c79" />       <img width="842" height="562" alt="image" src="https://github.com/user-attachments/assets/577ef244-8ca0-4b05-a200-6e290fb819fe" />
+# Good Loan Vs Bad Loan KPI'S
+**1) Good Loan Percentage                 1) Bad Loan Percentage
+2) Amount Funded for Good Loan          2) Amount Funded for Good Loan **
+   
 
 
 
