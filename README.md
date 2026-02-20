@@ -11,10 +11,23 @@
 5.**Average Debt-to-Income Ratio (DTI)**: Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans.
 
 # Good Loan Vs Bad Loan KPI'S
-1)**Good Loan Percentage**                     1) **Bad Loan Percentage**
+1)**Good Loan Percentage**                        1) **Bad Loan Percentage**
 
-2)**Amount Funded for Good Loan**              2) **Amount Funded for Good Loan**
+2)**Amount Funded for Good Loan**                 2) **Amount Funded for Good Loan**
    
+# Charts
+1)**Monthly Trends by Issue Date (Line/ Area Chart)**:  To identify seasonality and long-term trends in lending activities
+
+2)**Regional Analysis by State (Bar Chart)**: To identify regions with significant lending activity and assess regional disparities
+
+3)**Loan Term Analysis (Donut Chart)**: To allow the client to understand the distribution of loans across various term lengths.
+
+4)**Employee Length Analysis (Bar Chart)**: How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+
+5)**Loan Purpose Breakdown (Bar Chart)**: Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+
+6)**Home Ownership Analysis (Tree/ Heat Map)**: For a hierarchical view of how home ownership impacts loan applications and disbursements.
+
 
 
 
